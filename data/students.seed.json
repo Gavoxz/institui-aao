@@ -1,0 +1,24 @@
+[
+  {
+    "id": "livia-vitoria-cavalcanti-maia",
+    "name": "Livia Vitória Cavalcanti Maia",
+    "idNumber": "0000124949170-8",
+    "cin": "198.057.827-35",
+    "birthDate": "20/04/2009",
+    "state": "São Paulo",
+    "institution": "Ivony de Camargo Salles",
+    "grade": "Terceiro EM",
+    "shift": "Noturno",
+    "photoCrop": { "x": 52, "y": 158, "w": 338, "h": 452, "iw": 1179, "ih": 750 },
+    "card": {
+      "key": "seed/livia.jpeg",
+      "mime": "image/jpeg",
+      "bytes": 137098,
+      "originalName": "FullSizeRender.jpeg",
+      "source": "seed",
+      "updatedAt": "2026-11-07T00:00:00.000Z"
+    },
+    "createdAt": "2026-11-07T00:00:00.000Z",
+    "updatedAt": "2026-11-07T00:00:00.000Z"
+  }
+]
